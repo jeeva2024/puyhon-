@@ -5,6 +5,6 @@ c = a+ " and " +b
 print(c)
 # up there should we need to include the space we need 
 # while using without + we neednot to use the space 
-
+print("or")
 # or 
 print(a,'and',b)
